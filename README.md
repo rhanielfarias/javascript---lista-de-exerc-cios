@@ -29,13 +29,13 @@
 * 9. Crie uma função que aceita um array e use o método shift para remover e
      retornar o primeiro elemento do array.
 
-*10. Crie um array vazio e use o método unshift para adicionar três strings ao início do
+* 10. Crie um array vazio e use o método unshift para adicionar três strings ao início do
      array.
 
-*11. Crie um array com algumas cores. Use o método unshift para adicionar uma nova
+* 11. Crie um array com algumas cores. Use o método unshift para adicionar uma nova
      cor ao início da lista.
 
-*12. Crie uma função que aceita um array e um elemento como argumentos e use o
+* 12. Crie uma função que aceita um array e um elemento como argumentos e use o
      método unshift para adicionar o elemento ao início do array.
 
 ##Exercícios Iteração em Arrays:
@@ -68,11 +68,11 @@
      retornar um novo array contendo apenas os números maiores do que um valor
      passado como argumento.
 
-*10. Crie um array com números inteiros. Use o método reduce para calcular a soma de
+* 10. Crie um array com números inteiros. Use o método reduce para calcular a soma de
      todos os elementos do array.
 
-*11. Crie um array com palavras. Use o método reduce para criar uma única string que
+* 11. Crie um array com palavras. Use o método reduce para criar uma única string que
      contenha todas as palavras concatenadas.
 
-*12. Crie uma função que aceita um array de números e usa o método reduce para
+* 12. Crie uma função que aceita um array de números e usa o método reduce para
      calcular a média dos valores no array.
