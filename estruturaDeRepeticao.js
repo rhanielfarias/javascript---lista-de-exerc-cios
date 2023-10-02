@@ -36,11 +36,11 @@ console.log(animaisEmMaiusculo)
 
 //Exercício6
 const multiplica = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-function calcularMultiplicação(array, argumento) {
+function calcularMultiplicacao(array, argumento) {
     const resultado = array.map(elemento => numero = elemento * argumento)
     return resultado;
 }
-console.log(calcularMultiplicação(multiplica, 2),)
+console.log(calcularMultiplicacao(multiplica, 2),)
 
 //Exercício7
 const numerosInteiros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
